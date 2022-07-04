@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="create_notification">Create new notification</string>
+    <string name="fragmentsPackage">Fragment</string>
+</resources>
